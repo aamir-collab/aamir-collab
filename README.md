@@ -1,5 +1,5 @@
 # # 💫 About Me:
-I am currently studying in 3rd year of my college in BTech Computer Science Engineering brach with an overall CGPA of 8.8.<br>I am a passionate web developer who loves experimenting and collaborating with people<br>Currently working on my full stack web development skills
+Hi I'm Aamir Ali from Kolkata India, a passionate and results-driven full-stack developer interested in pushing boundaries, solving intricate problems, and building innovative solutions. With a solid foundation in front-end and back-end technologies, I thrive on transforming ideas into robust applications that make a tangible impact.
 
 
 ## 🌐 Socials:
